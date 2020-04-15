@@ -44,7 +44,7 @@ public class StarShow {
 			x = x + starSize;
 	
 			// 15. decrease the value of the Y position variable by star size. See Figure 3
-			y = y - starSize
+			y = y - starSize;
 	
 			// 16. Increase the star size by 20
 			starSize = starSize+20;
